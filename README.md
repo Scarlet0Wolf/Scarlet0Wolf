@@ -1,16 +1,18 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋
 
-<!--
-**Scarlet0Wolf/Scarlet0Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mateus Vidoi
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScrip
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você emtrar em contato comido 📫
+
+mateusvidoi05@gmail.com
+
+@mateusvidoi05
+
+
+![](https://media1.tenor.com/m/NfEGhy9EiWkAAAAC/jealous.gif)
